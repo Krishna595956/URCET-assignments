@@ -1,0 +1,9 @@
+1.Design a login page using html and css
+ 
+2.Design a html page that consists of 3 divs elements describing 3 cars with different styles
+ 
+3.Design a nav bar using bootstrap
+ 
+4.Design a registration page using bootstrap
+
+5.Design a team portfolio of 3 members of your team
