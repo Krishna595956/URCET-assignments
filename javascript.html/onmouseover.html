@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="btn" onmouseenter="changeText()" onmouseleave="changeText()">Submit</button>
+    <script>
+        function changeText(){
+           var text= document.getElementById("btn").innerText;
+           if(text==="Submit"){
+            document.getElementById("btn").innerText="Mouse Entered";
+           }
+           else{
+            document.getElementById("btn").innerText="Submit";
+           }
+        }
+    </script>
+</body>
+</html>
+

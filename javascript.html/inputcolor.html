@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="input"><button onclick="changecolor()">change color</button>
+    <p id="demo">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus deserunt minus et quia magnam laboriosam alias repudiandae excepturi qui placeat, at beatae a assumenda, molestias maiores veritatis atque quasi. Eius?</p>
+    <script>
+        function changecolor(){
+        var color=document.getElementById("input").value;
+        document.getElementById("demo").style.color=color;
+        }
+    </script>
+</body>
+</html>

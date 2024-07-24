@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <style>
+        button{
+            background-color: green;
+            color: white;
+            padding: 5px;
+            width: 70px;
+            border: 2px solid white;
+        }
+        button:hover{
+            border-radius: 20px;
+        }
+    </style> -->
+</head>
+<body>
+    <button id="btn" onmouseenter="mouseEntered()" onmouseleave="mouseLeft()">Login</button>
+    <script>
+        var btn=document.getElementById("btn");
+        btn.style.color="white";
+        btn.style.backgroundColor="green";
+        btn.style.padding="5px";
+        btn.style.border="2px solid white"
+        function mouseEntered(){
+            btn.style.color="green";
+        btn.style.backgroundColor="white";
+            btn.style.borderRadius="20px";
+            btn.style.border="2px solid black"
+        }
+        function mouseLeft(){
+        btn.style.borderRadius="0px";
+        btn.style.color="white";
+        btn.style.backgroundColor="green";
+        btn.style.border="2px solid white"
+        }
+    </script>
+</body>
+</html>

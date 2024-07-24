@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 id="red" onmouseenter="changetoRed()" style="border: 2px solid pink;" onmouseleave="redtoBlack()">Red</h1>
+    <h1 id="green" onmouseenter="changetoGreen()" onmouseleave="greentoBlack()">Green</h1>
+    <h1 id="yellow" onmouseenter="changetoYellow()" onmouseleave="yellowtoBlack()">Yellow</h1>
+    <script>
+        function changetoRed(){
+            document.getElementById("red").style.color="red";
+        }
+        function changetoGreen(){
+            document.getElementById("green").style.color="green";
+        }
+        function changetoYellow(){
+            document.getElementById("yellow").style.color="yellow";
+        }
+        function redtoBlack(){
+            document.getElementById("red").style.color="black"
+        }
+        function greentoBlack(){
+            document.getElementById("green").style.color="black"
+        }
+        function yellowtoBlack(){
+            document.getElementById("yellow").style.color="black"
+        }
+    </script>
+</body>
+</html>
