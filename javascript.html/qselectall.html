@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>This is tag paragraph1</p>
+    <p>This is tag paragraph2</p>
+    <p id="para">This is id paragraph1</p>
+    <p id="para">This is id paragraph2</p>
+    <p class="para1">This is class paragraph1</p>
+    <p class="para1">This is class paragraph2</p>
+    <script>
+        const tagElement=document.querySelectorAll('p')
+        console.log(tagElement)
+        for(let i=0;i<tagElement.length;i++){
+            tagElement[i].style.color="red";
+        }
+    </script>
+</body>
+</html>

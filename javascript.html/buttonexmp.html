@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="one">This is paragraph</p>
+    <button id="btn" >Click</button>
+    <h1 id="result">Result</h1>
+
+    <script>
+        const btn1=document.getElementById('btn');
+        const para=document.getElementById('one');
+        const result=document.getElementById('result');
+
+        btn1.addEventListener("click",function(){
+            const paraData=para.innerText;
+            result.innerText=paraData;
+        })
+    </script>
+</body>
+</html>

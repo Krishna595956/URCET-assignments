@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p class="para" id="one">This is paragraph1</p>
+    <p class="para1">iam krishna</p>
+    <p class="para">This is paragraph2</p>
+    <p class="para" id="one">This is paragraph1</p>
+    <p class="para1">iam krishna</p>
+    <p class="para">This is paragraph2</p>
+    <script>
+        var paragraphs=document.getElementsByTagName('p');  //[p1,p2,p3]
+        console.log(paragraphs)
+        //var paragraphs=document.getElementsByClassName('para');
+        for(let i=0;i<paragraphs.length;i++){
+            paragraphs[i].innerText="Hello everyone";
+        }
+    </script>
+</body>
+</html>
