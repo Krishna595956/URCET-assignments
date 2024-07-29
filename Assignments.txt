@@ -20,7 +20,7 @@
 2.Design a html page that generates an alert box on a button click.
 3.Design a html page that has a button and the text on the button changes on a button click.
 4.Design a html page that changes color of text on a button click.
-5.Design a html page with an input box ,a button and a 
+5.Design a html page with an input box ,a button and a sample text.Write script in which the color entered in the input box is applied to the text on a buttom click
 
 24-07-2024
 ------------
