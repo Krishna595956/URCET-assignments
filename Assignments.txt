@@ -1,0 +1,31 @@
+15-07-2024:
+------
+1.Design a html page that describes about python,java and c languages where each section is seperated by a line(use b,u or i frames when required).
+2.Design a html page that describes about you and your team with a button for each that facilitates user to access your resumes.
+3.Design a html page that consists of 5 hyperlinks that redirects to various products in an e-commerce application.
+4.Design a html page that consists of five different mobiles images and the updated cost(use strike tag).
+5.Design a html page with a table that consists details of your team.(like s.no,name,mobile,email,aadhar no,address)
+
+17-07-2024
+----------
+1.Design a login page using html and css
+2.Design a html page that consists of 3 divs elements describing 3 cars with different styles
+3.Design a nav bar using bootstrap
+4.Design a registration page using bootstrap
+5.Design a team portfolio of 3 members of your team
+
+22-07-2024
+-----------
+1.Design a html page with a html script that replaces existing paragraph with another paragraph.
+2.Design a html page that generates an alert box on a button click.
+3.Design a html page that has a button and the text on the button changes on a button click.
+4.Design a html page that changes color of text on a button click.
+5.Design a html page with an input box ,a button and a 
+
+24-07-2024
+------------
+1.Design a html page with a button that toggles dark mode and light mode.
+2.Design a html page with a button and a number that increments the value of that number on a button click.
+3.Design a html page with two buttons in wich the first button increments the value and second button decrements the value not to negative values.
+4.Design a html page that performs basic mathematical operations in which the input values are taken through two input boxes.
+5.Design a html cart page with three items in it which calculates individual cost of that item on adding or removing that particular item and also calculate the overall cost dynamically.

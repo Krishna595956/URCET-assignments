@@ -1,8 +1,0 @@
-DAY-1:
-------
-1.Design a html page that describes about python,java and c languages where each section is seperated by a line(use b,u or i frames when required).
-2.Design a html page that describes about you and your team with a button for each that facilitates user to access your resumes.
-3.Design a html page that consists of 5 hyperlinks that redirects to various products in an e-commerce application.
-4.Design a html page that consists of five different mobiles images and the updated cost(use strike tag).
-5.Design a html page with a table that consists details of your team.(like s.no,name,mobile,email,aadhar no,address)
-
