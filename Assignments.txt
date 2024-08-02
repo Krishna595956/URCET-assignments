@@ -37,3 +37,11 @@
 3.Design a html page to perform basic mathematical operations(use addEventListener for js events)
 4.Design a html page with a login form in which the login button changes its bgcolor and text colour on mouseenter and mouseleave.
 5.Design a html page tht toggles dark mode and light mode on a button click(use addEventListener())
+
+31-07-2024:
+-----------
+1.Write a java program to calculate the factorial of a number.
+2.Write a java program to Check if a number is prime or not.
+3.Write a java program to check if a number is palindrome or not.
+4.Write a java program to to print perfect squares bwtween 1 to 500.
+5.Write a java program to to print fibonacci series.
