@@ -45,3 +45,11 @@
 3.Write a java program to check if a number is palindrome or not.
 4.Write a java program to to print perfect squares bwtween 1 to 500.
 5.Write a java program to to print fibonacci series.
+
+07-08-2024:
+-----------
+1.Create a class Person with attributes name, age, and address. Create a method displayDetails() to print these details. Create objects of Person class and call the displayDetails() method.
+2.Create a class BankAccount with attributes accountNumber, balance, and methods deposit(), withdraw(), and checkBalance().
+3.Create a program to count the number of vowels in a given string.
+4.Create a StringBuffer object and demonstrate its use for appending and inserting characters.
+5.Create overloaded methods to find the sum of two integers, two doubles, and three integers.
