@@ -53,3 +53,11 @@
 3.Create a program to count the number of vowels in a given string.
 4.Create a StringBuffer object and demonstrate its use for appending and inserting characters.
 5.Create overloaded methods to find the sum of two integers, two doubles, and three integers.
+
+27-08-2024
+-----------
+1.Create a simple SpringBppt application to return a html [age that displays your name.
+2.Create a SpringBoot application with two buttons login and signup which on click returns login and signup pages respectively.
+3.Create a springBoot application that captures url arguments and display arguments in console.
+4.Create a profile page with details like your_name,Roll_no,mobile,email,college and create and print them by sending the details using GET method.
+5.Create a springBoot application to display your semester marks that are passed as parameters using GET method. 
